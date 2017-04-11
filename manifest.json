@@ -1,0 +1,27 @@
+{
+    "author": "Anojh Thayaparan",
+    "background": {
+        "page": "background.html",
+        "persistent": true
+    },
+    "browser_action": {
+        "default_icon": {
+            "40": "icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "description": "This extension allows you to pop out a YouTube video.",
+    "manifest_version": 2,
+    "name": "Video Popout",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "https://ajax.googleapis.com/",
+        "https://www.youtube.com/*"
+    ],
+    "version": "1.0",
+    "-ms-preload": {
+        "backgroundScript": "backgroundScriptsAPIBridge.js",
+        "contentScript": "contentScriptsAPIBridge.js"
+    }
+}

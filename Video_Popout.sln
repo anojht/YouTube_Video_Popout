@@ -5,15 +5,15 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4443EC1C-4844-4D11-9777-3343A12CA4C9}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Downloads\Video_Popout\background.html = ..\..\..\..\Downloads\Video_Popout\background.html
-		..\..\..\..\Downloads\Video_Popout\background.js = ..\..\..\..\Downloads\Video_Popout\background.js
-		..\..\..\..\Downloads\Video_Popout\backgroundScriptsAPIBridge.js = ..\..\..\..\Downloads\Video_Popout\backgroundScriptsAPIBridge.js
-		..\..\..\..\Downloads\Video_Popout\contentScriptsAPIBridge.js = ..\..\..\..\Downloads\Video_Popout\contentScriptsAPIBridge.js
-		..\..\..\..\Downloads\Video_Popout\icon.png = ..\..\..\..\Downloads\Video_Popout\icon.png
-		..\..\..\..\Downloads\Video_Popout\manifest.json = ..\..\..\..\Downloads\Video_Popout\manifest.json
-		..\..\..\..\Downloads\Video_Popout\popup.html = ..\..\..\..\Downloads\Video_Popout\popup.html
-		..\..\..\..\Downloads\Video_Popout\popup.js = ..\..\..\..\Downloads\Video_Popout\popup.js
-		..\..\..\..\Downloads\Video_Popout\readme.txt = ..\..\..\..\Downloads\Video_Popout\readme.txt
+		background.html = background.html
+		background.js = background.js
+		backgroundScriptsAPIBridge.js = backgroundScriptsAPIBridge.js
+		contentScriptsAPIBridge.js = contentScriptsAPIBridge.js
+		icon.png = icon.png
+		manifest.json = manifest.json
+		popup.html = popup.html
+		popup.js = popup.js
+		readme.txt = readme.txt
 	EndProjectSection
 EndProject
 Global
